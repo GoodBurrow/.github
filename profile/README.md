@@ -1,12 +1,15 @@
 # Good Burrow
 
-Good Burrow is an independent software studio making focused, privacy-friendly
-apps and browser tools.
+Good Burrow makes Mac apps, browser extensions, and free web tools.
 
-- [Archive Reader](https://goodburrow.github.io/archive-reader/) — browse and search an official social-media export on your Mac.
-- [Burrowmarks](https://goodburrow.github.io/Burrowmarks/) — a private bookmark vault for Firefox.
-- [Siggy](https://goodburrow.github.io/Siggy/) — a local-first email signature builder.
-- [MailPaw](https://goodburrow.github.io/MailPaw/) — a local-first email template builder.
-- [Extension License Kit](https://goodburrow.github.io/extension-license-kit/) — one-time licensing tools for browser extensions.
+## Apps
 
-Visit [goodburrow.github.io](https://goodburrow.github.io/) to see the products.
+- [Social Archive](https://goodburrow.github.io/social-archive/): Browse and search supported Instagram and Facebook exports on a Mac.
+- [Burrowmarks](https://goodburrow.github.io/Burrowmarks/): Keep selected bookmarks in a private encrypted vault for Firefox.
+- [Anthora](https://goodburrow.github.io/anthora/): Browse, search, and review photo and video folders without moving the original files. Coming soon.
+- [Chat Library](https://goodburrow.github.io/chat-library/): Open and search conversations from a ChatGPT data export on a Mac. Coming soon.
+- [Siggy](https://goodburrow.github.io/Siggy/): Build an HTML email signature in the browser.
+- [MailPaw](https://goodburrow.github.io/MailPaw/): Build reusable email templates in the browser.
+
+Visit [goodburrow.github.io](https://goodburrow.github.io/) for current prices,
+compatibility, privacy details, and product limitations.
