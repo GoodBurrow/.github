@@ -11,5 +11,4 @@ Good Burrow makes Mac apps, browser extensions, and free web tools.
 - [Siggy](https://goodburrow.github.io/Siggy/): Build an HTML email signature in the browser.
 - [MailPaw](https://goodburrow.github.io/MailPaw/): Build reusable email templates in the browser.
 
-Visit [goodburrow.github.io](https://goodburrow.github.io/) for current prices,
-compatibility, privacy details, and product limitations.
+Visit [goodburrow.github.io](https://goodburrow.github.io/) to see the apps.
